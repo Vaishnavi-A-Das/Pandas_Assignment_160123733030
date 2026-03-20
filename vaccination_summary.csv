@@ -1,0 +1,195 @@
+location,vaccine,total_vaccinations
+Argentina,CanSino,610540
+Argentina,Moderna,6507561
+Argentina,Oxford/AstraZeneca,25977231
+Argentina,Pfizer/BioNTech,14681054
+Argentina,Sinopharm/Beijing,28322602
+Argentina,Sputnik V,20405678
+Austria,Johnson&Johnson,363548
+Austria,Moderna,1585063
+Austria,Novavax,3682
+Austria,Oxford/AstraZeneca,1588222
+Austria,Pfizer/BioNTech,14584985
+Belgium,Johnson&Johnson,425639
+Belgium,Moderna,4267394
+Belgium,Novavax,36
+Belgium,Oxford/AstraZeneca,2846716
+Belgium,Pfizer/BioNTech,17451842
+Bulgaria,Johnson&Johnson,511702
+Bulgaria,Moderna,491663
+Bulgaria,Oxford/AstraZeneca,478541
+Bulgaria,Pfizer/BioNTech,2852218
+Chile,CanSino,574442
+Chile,Oxford/AstraZeneca,549396
+Chile,Pfizer/BioNTech,7910264
+Chile,Sinovac,25596927
+Croatia,Johnson&Johnson,201126
+Croatia,Moderna,508787
+Croatia,Novavax,220
+Croatia,Oxford/AstraZeneca,567900
+Croatia,Pfizer/BioNTech,3921503
+Cyprus,Johnson&Johnson,30003
+Cyprus,Moderna,186468
+Cyprus,Novavax,45
+Cyprus,Oxford/AstraZeneca,254527
+Cyprus,Pfizer/BioNTech,1188656
+Czechia,Johnson&Johnson,412627
+Czechia,Moderna,1584930
+Czechia,Novavax,3046
+Czechia,Oxford/AstraZeneca,887126
+Czechia,Pfizer/BioNTech,14604323
+Denmark,Johnson&Johnson,46934
+Denmark,Moderna,1708672
+Denmark,Oxford/AstraZeneca,155689
+Denmark,Pfizer/BioNTech,10259219
+Ecuador,CanSino,536882
+Ecuador,Oxford/AstraZeneca,5009163
+Ecuador,Pfizer/BioNTech,8552679
+Ecuador,Sinovac,15812935
+Estonia,Johnson&Johnson,77815
+Estonia,Moderna,231853
+Estonia,Novavax,143
+Estonia,Oxford/AstraZeneca,237715
+Estonia,Pfizer/BioNTech,1488804
+European Union,Covaxin,11
+European Union,Johnson&Johnson,18556428
+European Union,Moderna,145331851
+European Union,Novavax,118968
+European Union,Oxford/AstraZeneca,67403106
+European Union,Pfizer/BioNTech,600519998
+European Union,Sinopharm/Beijing,2301516
+European Union,Sinovac,1809
+European Union,Sputnik V,1845103
+Finland,Johnson&Johnson,0
+Finland,Moderna,1886487
+Finland,Oxford/AstraZeneca,553785
+Finland,Pfizer/BioNTech,9235420
+France,Johnson&Johnson,1085968
+France,Moderna,23535156
+France,Oxford/AstraZeneca,7857861
+France,Pfizer/BioNTech,109187212
+Germany,Johnson&Johnson,3628087
+Germany,Moderna,29435818
+Germany,Novavax,76908
+Germany,Oxford/AstraZeneca,12757971
+Germany,Pfizer/BioNTech,126041243
+Hong Kong,Pfizer/BioNTech,8879482
+Hong Kong,Sinovac,6064982
+Hungary,Johnson&Johnson,334136
+Hungary,Moderna,1047347
+Hungary,Oxford/AstraZeneca,1252385
+Hungary,Pfizer/BioNTech,9298462
+Hungary,Sinopharm/Beijing,2300518
+Hungary,Sputnik V,1807392
+Iceland,Johnson&Johnson,85
+Iceland,Moderna,6493
+Iceland,Oxford/AstraZeneca,1
+Iceland,Pfizer/BioNTech,76558
+Ireland,Johnson&Johnson,237958
+Ireland,Moderna,1176947
+Ireland,Oxford/AstraZeneca,1193109
+Ireland,Pfizer/BioNTech,8043987
+Italy,Johnson&Johnson,1507237
+Italy,Moderna,33612044
+Italy,Novavax,30003
+Italy,Oxford/AstraZeneca,12165527
+Italy,Pfizer/BioNTech,88556058
+Japan,Moderna,5687427
+Japan,Pfizer/BioNTech,86647668
+Latvia,Johnson&Johnson,293169
+Latvia,Moderna,710330
+Latvia,Novavax,198
+Latvia,Oxford/AstraZeneca,262597
+Latvia,Pfizer/BioNTech,1608147
+Latvia,Sinopharm/Beijing,27
+Latvia,Sinovac,9
+Liechtenstein,Johnson&Johnson,262
+Liechtenstein,Moderna,47041
+Liechtenstein,Pfizer/BioNTech,22859
+Lithuania,Johnson&Johnson,294701
+Lithuania,Moderna,327864
+Lithuania,Oxford/AstraZeneca,536493
+Lithuania,Pfizer/BioNTech,3289779
+Luxembourg,Johnson&Johnson,41518
+Luxembourg,Moderna,299677
+Luxembourg,Novavax,151
+Luxembourg,Oxford/AstraZeneca,105267
+Luxembourg,Pfizer/BioNTech,696897
+Malta,Johnson&Johnson,32305
+Malta,Moderna,236334
+Malta,Oxford/AstraZeneca,227809
+Malta,Pfizer/BioNTech,705757
+Nepal,Johnson&Johnson,3339665
+Nepal,Moderna,5630789
+Nepal,Oxford/AstraZeneca,10764832
+Nepal,Pfizer/BioNTech,619997
+Nepal,Sinopharm/Beijing,19580285
+Netherlands,Johnson&Johnson,868541
+Netherlands,Moderna,6361300
+Netherlands,Novavax,323
+Netherlands,Oxford/AstraZeneca,2800824
+Netherlands,Pfizer/BioNTech,23997608
+Norway,Johnson&Johnson,7108
+Norway,Moderna,2262005
+Norway,Oxford/AstraZeneca,147371
+Norway,Pfizer/BioNTech,8840179
+Peru,Oxford/AstraZeneca,5399621
+Peru,Pfizer/BioNTech,39848993
+Peru,Sinopharm/Beijing,20304277
+Poland,Johnson&Johnson,2682644
+Poland,Moderna,3632801
+Poland,Novavax,3772
+Poland,Oxford/AstraZeneca,5288990
+Poland,Pfizer/BioNTech,38515444
+Portugal,Covaxin,11
+Portugal,Johnson&Johnson,1133095
+Portugal,Moderna,3571688
+Portugal,Novavax,0
+Portugal,Oxford/AstraZeneca,2245876
+Portugal,Pfizer/BioNTech,14981060
+Portugal,Sinopharm/Beijing,971
+Portugal,Sinovac,1800
+Romania,Johnson&Johnson,2048128
+Romania,Moderna,1005460
+Romania,Oxford/AstraZeneca,849559
+Romania,Pfizer/BioNTech,12833739
+Slovakia,Johnson&Johnson,183250
+Slovakia,Moderna,672106
+Slovakia,Novavax,300
+Slovakia,Oxford/AstraZeneca,842782
+Slovakia,Pfizer/BioNTech,5080520
+Slovakia,Sputnik V,37711
+Slovenia,Johnson&Johnson,136174
+Slovenia,Moderna,236822
+Slovenia,Novavax,33
+Slovenia,Oxford/AstraZeneca,324876
+Slovenia,Pfizer/BioNTech,2246763
+South Africa,Johnson&Johnson,8190515
+South Africa,Pfizer/BioNTech,25379326
+South Korea,Johnson&Johnson,1542317
+South Korea,Moderna,24227253
+South Korea,Novavax,184429
+South Korea,Oxford/AstraZeneca,20315509
+South Korea,Pfizer/BioNTech,74173406
+Spain,Johnson&Johnson,1980123
+Spain,Moderna,23568112
+Spain,Oxford/AstraZeneca,9792319
+Spain,Pfizer/BioNTech,65141278
+Sweden,Moderna,3450728
+Sweden,Novavax,108
+Sweden,Oxford/AstraZeneca,1328640
+Sweden,Pfizer/BioNTech,14709074
+Switzerland,Johnson&Johnson,60033
+Switzerland,Moderna,9762673
+Switzerland,Pfizer/BioNTech,5797151
+Ukraine,Johnson&Johnson,20680
+Ukraine,Moderna,3044899
+Ukraine,Oxford/AstraZeneca,4041487
+Ukraine,Pfizer/BioNTech,14774013
+Ukraine,Sinovac,9802231
+United States,Johnson&Johnson,18563903
+United States,Moderna,210341785
+United States,Pfizer/BioNTech,330748673
+Uruguay,Oxford/AstraZeneca,90732
+Uruguay,Pfizer/BioNTech,2476595
+Uruguay,Sinovac,3247932
